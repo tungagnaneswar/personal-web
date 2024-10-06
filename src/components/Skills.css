@@ -1,0 +1,30 @@
+/* src/components/Skills.css */
+.skills-section {
+    padding: 100px;
+    background-color: #f5f5f5;
+    text-align: center;
+  }
+  
+  .skills-section h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color: #2c3e50;
+  }
+  
+  .skills-section ul {
+    list-style: none;
+    padding: 0;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .skills-section ul li {
+    font-size: 1.2em;
+    color: #333;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
